@@ -9,6 +9,11 @@
       "name": "origin-apps",
       "source": "./origin-apps",
       "description": "Skills for building on the Cursor Origin API. Fetch the live spec first, then follow the Origin rules for credentials, scopes, webhooks, paging, and errors. Includes a skill that plans the port of an existing GitHub App."
+    },
+    {
+      "name": "zero-hero-video",
+      "source": "./zero-hero-video",
+      "description": "Make ZERO hero reels for trade businesses: brief in, branded vertical MP4 out."
     }
   ]
 }

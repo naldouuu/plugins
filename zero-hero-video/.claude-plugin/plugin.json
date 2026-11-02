@@ -1,0 +1,9 @@
+{
+  "name": "zero-hero-video",
+  "description": "Make ZERO hero reels for trade businesses: a struggling tradesman, Zero (the AI hero living inside the client's brand) bursts out of the client's shield and takes over the calls, then a branded ask. Brief in, vertical MP4 out.",
+  "version": "1.0.0",
+  "author": { "name": "Jack Ranaldo" },
+  "license": "MIT",
+  "keywords": ["video", "reels", "marketing", "trades", "ai-receptionist", "zero"],
+  "skills": "./skills/"
+}

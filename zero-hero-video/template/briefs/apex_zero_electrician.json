@@ -1,0 +1,126 @@
+{
+  "output": "../output/apex_zero_electrician.mp4",
+  "brand": {
+    "name": "Apex Zero Studio",
+    "initials": "AZ",
+    "primary": "#F5B700",
+    "accent": "#40E0FF",
+    "dark": "#0B0C0E",
+    "person": "Misael Ibarra",
+    "role": "Apex Zero Studio",
+    "handle": "@misael.systems",
+    "site": "apexzerostudio.com"
+  },
+  "hero": {
+    "name": "Zero",
+    "tagline": "The hero living inside your business."
+  },
+  "scenes": [
+    {
+      "src": "../footage/stills/s1.jpg",
+      "dur": 3.6,
+      "caption": "Every electrician knows *this* call.",
+      "sound": "phone"
+    },
+    {
+      "src": "../footage/stills/s2.jpg",
+      "dur": 3.8,
+      "caption": "Hands in a live panel. Phone won't *stop* ringing.",
+      "sound": "ringtone",
+      "zoom": "out"
+    },
+    {
+      "src": "../footage/stills/s3.jpg",
+      "dur": 3.8,
+      "caption": "By noon, the *missed* *calls* are stacking up.",
+      "sound": "phone"
+    },
+    {
+      "src": "../footage/stills/s4.jpg",
+      "dur": 3.6,
+      "caption": "Lunch break? That's for *calling* *leads* back.",
+      "sound": "buzz",
+      "zoom": "out"
+    },
+    {
+      "src": "../footage/stills/s5.jpg",
+      "dur": 3.6,
+      "caption": "9 PM. Still *chasing* *quotes* instead of sleeping."
+    },
+    {
+      "kind": "reveal",
+      "dur": 2.6,
+      "caption": "Meet Zero.",
+      "sub": "The hero living inside your business."
+    },
+    {
+      "kind": "hero",
+      "src": "../footage/stills/s6.jpg",
+      "dur": 3.8,
+      "caption": "Zero answers *every* *call* while he works.",
+      "cards": [
+        {
+          "at": 0.4,
+          "body": "Answered a new call. Panel upgrade booked Thu 9 AM."
+        }
+      ]
+    },
+    {
+      "kind": "hero",
+      "src": "../footage/stills/s7.jpg",
+      "dur": 5.0,
+      "caption": "*Books* the job. Logs it in his CRM. Finds *new* *customers*.",
+      "zoom": "out",
+      "cards": [
+        {
+          "at": 0.3,
+          "body": "Job logged in your CRM. Confirmation text sent."
+        },
+        {
+          "at": 1.3,
+          "body": "New leads found near your next job. Follow-ups scheduled."
+        }
+      ]
+    },
+    {
+      "kind": "hero",
+      "src": "../footage/stills/s8.jpg",
+      "dur": 3.6,
+      "caption": "He just does the work. *Zero* handles the rest.",
+      "finale": true
+    }
+  ],
+  "voice": [
+    {
+      "file": "../assets/voice/z1.wav",
+      "scene": 5,
+      "offset": 0.3
+    },
+    {
+      "file": "../assets/voice/j2.wav",
+      "scene": 6,
+      "offset": 0.75
+    },
+    {
+      "file": "../assets/voice/j3.wav",
+      "scene": 7,
+      "offset": 0.6
+    },
+    {
+      "file": "../assets/voice/j4.wav",
+      "scene": 8,
+      "offset": 0.3
+    },
+    {
+      "file": "../assets/voice/z_tag.wav",
+      "scene": "end",
+      "offset": 0.5
+    }
+  ],
+  "end": {
+    "dur": 5.0,
+    "headline": "Zero missed calls. Zero lost jobs.",
+    "sub": "Your AI hero answers, books and follows up, inside the CRM you already own.",
+    "cta": "DM @misael.systems"
+  }
+}

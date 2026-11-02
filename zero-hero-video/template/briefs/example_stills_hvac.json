@@ -1,0 +1,65 @@
+{
+  "output": "../output/example_stills_hvac.mp4",
+  "brand": {
+    "name": "Summit Air Pros",
+    "initials": "SA",
+    "primary": "#E4572E",
+    "accent": "#7FD8FF",
+    "dark": "#101820",
+    "site": "your-website.com"
+  },
+  "hero": {
+    "name": "Zero",
+    "tagline": "The hero living inside Summit Air Pros."
+  },
+  "scenes": [
+    {
+      "src": "../footage/stills/s1.jpg",
+      "dur": 3.4,
+      "caption": "Every tech knows this call.",
+      "sound": "phone"
+    },
+    {
+      "src": "../footage/stills/s3.jpg",
+      "dur": 3.4,
+      "caption": "Missed calls stacking up by noon.",
+      "sound": "phone",
+      "zoom": "out"
+    },
+    {
+      "src": "../footage/stills/s5.jpg",
+      "dur": 3.4,
+      "caption": "9 PM, still sending quotes."
+    },
+    {
+      "kind": "reveal",
+      "dur": 2.6,
+      "caption": "Meet Zero."
+    },
+    {
+      "kind": "hero",
+      "src": "../footage/stills/s6.jpg",
+      "dur": 3.8,
+      "caption": "Zero answers *every* *call*.",
+      "cards": [
+        {
+          "at": 0.4,
+          "body": "AC repair booked for Tuesday 10 AM."
+        }
+      ]
+    },
+    {
+      "kind": "hero",
+      "src": "../footage/stills/s8.jpg",
+      "dur": 3.4,
+      "caption": "You fix the systems. *Zero* runs the phones.",
+      "finale": true
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "headline": "Your brand has a hero.",
+    "sub": "Zero answers, books and follows up for you.",
+    "cta": "Book a demo"
+  }
+}
