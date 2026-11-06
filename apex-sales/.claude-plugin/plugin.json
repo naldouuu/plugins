@@ -1,0 +1,9 @@
+{
+  "name": "apex-sales",
+  "description": "Sales playbook for Misael Systems and its Apex Zero software: discovery questions, the six systems, cold-call script, objection answers and the promises never to make.",
+  "version": "1.0.0",
+  "author": { "name": "Jack Ranaldo" },
+  "license": "MIT",
+  "keywords": ["sales", "home-services", "missed-calls", "apex-zero"],
+  "skills": "./skills/"
+}
